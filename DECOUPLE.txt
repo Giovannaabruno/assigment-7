@@ -1,0 +1,7 @@
+1.What files do you need to send along for only the views to compile?
+- The only class files ones needs are the  Pixel and Layer class.
+2.This list must include the interfaces and implementations for the view itself.
+- the interfaces that are needed are The ControllerInterfaces, ProjectInterface, CollagingView,
+and TextuiIn. And for the implementations one will need ImagePannel and CommandPannel.
+3.For each file, briefly explain why that file is necessary for the view to work.
+- The Pixel and Layer class were used in the View classes.
